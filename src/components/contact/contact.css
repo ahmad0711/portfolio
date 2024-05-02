@@ -37,3 +37,21 @@
     display: inline-block;
     font-size: 0.8rem;
 }
+
+
+@media screen and (max-width: 1024px) {
+    
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .contact__options {
+       margin: 0.5rem;
+      }
+
+      #contact {
+        margin-bottom: 150px;
+      }
+}
+

@@ -32,7 +32,7 @@
 
 .experience__details {
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 .experience__details-icon {
@@ -46,7 +46,6 @@
     }
     .experience__container div {
         width: 80%;
-        padding: 2rem;
         margin: 0 auto;
     }
     .experience__content{
@@ -59,7 +58,13 @@
     }
 
     .experience__container div {
-        width: 100%;
+        width: 95%;
         padding: 2rem 1rem;
+        
+    }
+
+    .experience__details-icon {
+        margin-top: 2.3rem;
+        color: var(--color-primary);
     }
 }

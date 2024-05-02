@@ -57,6 +57,7 @@
     }
     .service {
         height: auto;
+        margin: 1rem;
     }
 }
 

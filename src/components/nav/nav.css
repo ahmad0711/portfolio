@@ -34,3 +34,17 @@ nav a.active {
     color: var(--color-white);
 
 }
+
+@media screen and (max-width: 1024px) {
+    
+}
+
+  
+@media screen and (max-width: 600px) {
+
+    nav {
+        
+        margin-top: 10rem;
+    }
+    
+}  

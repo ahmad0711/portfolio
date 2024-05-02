@@ -20,7 +20,8 @@ function Portfolio() {
           <div className="portfolio__item-image">
             <img className="portfolioImg" width="410" height="335"   src={IMG1} alt="" />
           </div>
-          <h3>Contribute as a Tester in Kidu Shopify Theme</h3>
+          <h3>Kidu <small>(Shopify Theme)</small></h3>
+          <small>Contribute as a Tester</small>
           <div className="portfolio__item-image">
           {/* <a href="https://github.com/ahmad0711" className='btn'>Github</a>
           <a href="#" className='btn btn primary'>Live Demo</a> */}
@@ -31,7 +32,8 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img className="portfolioImg" width="410" height="335"  src={IMG2} alt="" />
           </div>
-          <h3>Contribute as a Tester in Shopify App</h3>
+          <h3>Sp:Order on WhatsApp<small>(Shopify App)</small></h3>
+          <small>Contribute as a Tester</small>
           <div className="portfolio__item-image">
           {/* <a href="https://github.com/ahmad0711" className='btn'>Github</a>
           <a href="#" className='btn btn primary'>Live Demo</a> */}
@@ -42,7 +44,8 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img className="portfolioImg" width="410" height="335"  src={IMG3} alt="" />
           </div>
-          <h3>Contribute as a Tester in Shopif App </h3>
+          <h3>Add to Cart<small>(Shopify App)</small></h3>
+          <small>Contribute as a Tester</small>
           <div className="portfolio__item-image">
           {/* <a href="https://github.com/ahmad0711" className='btn'>Github</a>
           <a href="#" className='btn btn primary'>Live Demo</a> */}
@@ -53,7 +56,8 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img className="portfolioImg" width="410" height="335"  src={IMG4} alt="" />
           </div>
-          <h3>Contribute as a Tester in Mobile app</h3>
+          <h3>Hospital Review System<small>(Mobile App)</small></h3>
+          <small>Contribute as a Tester</small>
           <div className="portfolio__item-image">
           {/* <a href="https://github.com/ahmad0711" className='btn'>Github</a>
           <a href="#" className='btn btn primary'>Live Demo</a> */}
@@ -64,7 +68,8 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img className="portfolioImg" width="410" height="335"  src={IMG5} alt="" />
           </div>
-          <h3>Contribute as a Tester in Mobile App</h3>
+          <h3>Cues App<small>(Mobile App)</small></h3>
+          <small>Contribute as a Tester</small>
           <div className="portfolio__item-image">
           {/* <a href="https://github.com/ahmad0711" className='btn'>Github</a>
           <a href="#" className='btn btn primary'>Live Demo</a> */}
@@ -75,7 +80,8 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img className="portfolioImg" width="410" height="335"  src={IMG6} alt="" />
           </div>
-          <h3>Contribute as a Tester</h3>
+          <h3>Hospital Reveiw System<small>(Web App)</small></h3>
+          <small>Contribute as a Tester</small>
           <div className="portfolio__item-image">
           {/* <a href="https://github.com/ahmad0711" className='btn'>Github</a>
           <a href="#" className='btn btn primary'>Live Demo</a> */}
