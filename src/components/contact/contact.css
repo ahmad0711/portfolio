@@ -3,12 +3,14 @@
   display: grid;
     grid-template-columns: 30% 58%;
     gap: 12%;
+    margin-bottom: 30px;
 }
 
 .contact__options {
   display: flex;
     flex-direction: column;
     gap: 1.2rem;
+    margin-bottom: 100px;
 }
 
 .contact__option {

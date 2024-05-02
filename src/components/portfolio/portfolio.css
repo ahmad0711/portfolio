@@ -6,7 +6,7 @@
 
 .portfolio__item {
     background: var(--color-bg-variation);
-    padding: 1.2rem;
+    padding: 1rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -32,6 +32,10 @@
     margin-bottom: 1rem;
 }
 
+.portfolioImg{
+  object-fit: contain;
+}
+
 @media screen and (max-width: 1024px) {
   .portfolio__container {
     grid-template-columns: 1fr 1fr;
@@ -45,3 +49,4 @@
     gap: 1rem;
   }
 }
+

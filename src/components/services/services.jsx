@@ -11,34 +11,50 @@ function Services() {
       <div className="container service__container">
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Software Testing</h3>
           </div>
 
         <ul className='service__list'>
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Understanding Requirements</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Planning</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Case Design</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Execution</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Defect Reporting and Tracking</p>
           </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Regression Testing</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Exploratory Testing</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Communication with developers</p>
+          </li>
+          
         </ul>
         </article>
         
@@ -46,67 +62,104 @@ function Services() {
 
         <article className='service'>
           <div className="service__head">
-            <h3>Website Development</h3>
+            <h3>Mobile App Testing</h3>
           </div>
 
-        <ul className='service__list'>
+          <ul className='service__list'>
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Understanding Requirements</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Planning and Strategy</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Device and Platform Testing</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Case Design & Execution</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Defect Reporting and Tracking</p>
           </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Regression Testing</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>User Experience Testing:</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Communication with developers</p>
+          </li>
+          
         </ul>
         </article>
 
         <article className='service'>
           <div className="service__head">
-            <h3>Content</h3>
+            <h3>Web Automation Testing</h3>
           </div>
 
         <ul className='service__list'>
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Planning and Strategy</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Script Development</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Framework Setup</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Environment Setup</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit!</p>
+            <p>Test Execution</p>
           </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Test Data Management</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Test Result Analysis</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Integration Testing</p>
+          </li>
+
+          <li>
+            <AiOutlineCheck className='service__list-icon' />
+            <p>Collaboration and Communication</p>
+          </li>
+
         </ul>
         </article>
 

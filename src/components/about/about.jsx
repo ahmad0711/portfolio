@@ -23,7 +23,7 @@ function About() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experince</h5>
-              <small>03+ Months</small>
+              <small>01+ Year</small>
             </article>
           
             <article className="about__card">
@@ -35,12 +35,13 @@ function About() {
             <article className="about__card">
               <BsFolderSymlink className="about__icon" />
               <h5>Projects</h5>
-              <small>0+ Completed</small>
+              <small>20+ Completed</small>
             </article>
 
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, harum modi molestias dicta amet voluptatibus. Expedita consectetur eaque deleniti dolores tempore officia ad, repellendus quas ipsum voluptas et soluta! Voluptatum non rerum eveniet laudantium est quam perferendis ipsum doloremque, molestiae facere quasi quos praesentium illum harum sit aut dolores hic assumenda quis aliquid dolorum?
+           I am self-motivated professional passionate about quality control.I bring to this position a hands-on approach in the testing of software system. 
+           As a Software Quality Assurance Engineer, I have spent the past year honing my skills in ensuring the quality and reliability of software products. Through meticulous testing and analysis, I have contributed to the development of robust and user-friendly applications, driving customer satisfaction and business success.
           </p>
 
           <a href="#contact" className="btn btn-primary" >Let's Talk</a>

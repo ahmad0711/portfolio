@@ -10,12 +10,12 @@ function Experience() {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Skills</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>HTML</h4>
+                <h4>Software Testing</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -23,7 +23,7 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>CSS</h4>
+                <h4>Web Testing</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -31,7 +31,7 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>Java Scripts</h4>
+                <h4>Mobile App Testing</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -39,7 +39,7 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>React JS</h4>
+                <h4>API Testing</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -47,20 +47,29 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>Bootstrap</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Performance Testing</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
+
+            <article className="experience__details">
+              <BsCheckCircleFill className="experience__details-icon" />
+              <div>
+                <h4>Web Automation Testing</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>        
+
           </div>
         </div>
 
         <div className="experince__backend">
-          <h3>Backend Development</h3>
+          <h3>Tools & Languages</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>LOREM</h4>
+                <h4>Jira</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -68,7 +77,7 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>LOREM</h4>
+                <h4>Postman</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -76,7 +85,7 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>LOREM</h4>
+                <h4>JMeter</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -84,18 +93,27 @@ function Experience() {
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>LOREM</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Selenium Java</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsCheckCircleFill className="experience__details-icon" />
               <div>
-                <h4>LOREM</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Cypress JS</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
+
+            <article className="experience__details">
+              <BsCheckCircleFill className="experience__details-icon" />
+              <div>
+                <h4>Git & GitHub</h4>
+                <small className="text-light">Beginner</small>
+              </div>
+            </article>
+
           </div>
         </div>
       </div>
