@@ -132,22 +132,12 @@ function Services() {
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
-            <p>Test Environment Setup</p>
-          </li>
-
-          <li>
-            <AiOutlineCheck className='service__list-icon' />
             <p>Test Execution</p>
           </li>
 
           <li>
             <AiOutlineCheck className='service__list-icon' />
             <p>Test Data Management</p>
-          </li>
-
-          <li>
-            <AiOutlineCheck className='service__list-icon' />
-            <p>Test Result Analysis</p>
           </li>
 
           <li>

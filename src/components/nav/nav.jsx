@@ -9,12 +9,12 @@ import {useState} from "react";
 
 
 function Nav() {
-  const [activeNav, setActiveNav] = useState("#")
+  const [activeNav, setActiveNav] = useState(" ")
   return (
     <nav>
       
-      <a href="#" onClick={()=> setActiveNav ('#')} 
-      className={activeNav === "#" ? 'active' : ''}> <FcHome/> </a>
+      <a href="/" onClick={()=> setActiveNav ('#header')} 
+      className={activeNav === "#header" ? 'active' : ''}> <FcHome/> </a>
 
       <a href="#about" onClick={()=> setActiveNav ('#about')}
       className={activeNav === "#about" ? 'active' : ''} ><FaUserGraduate/></a>
