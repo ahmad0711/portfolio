@@ -71,6 +71,10 @@
 }
 
 @media screen and (max-width: 1024px) {
+
+    #about {
+        margin-top: 2rem;
+    }
     .about__conatiner {
             grid-template-columns: 1fr;
             gap : 0;
