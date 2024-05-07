@@ -13,7 +13,7 @@ function Nav() {
   return (
     <nav>
       
-      <a href="/" onClick={()=> setActiveNav ('#header')} 
+      <a href="#header" onClick={()=> setActiveNav ('#header')} 
       className={activeNav === "#header" ? 'active' : ''}> <FcHome/> </a>
 
       <a href="#about" onClick={()=> setActiveNav ('#about')}
